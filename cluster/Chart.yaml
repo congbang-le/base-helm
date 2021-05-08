@@ -1,0 +1,8 @@
+apiVersion: v2
+name: simple-webserver
+description: Simple Webserver helm chart
+version: 0.1.0
+dependencies:
+  - name: base
+    repository: s3://infra-helm-chart
+    version: 0.1.0

@@ -1,0 +1,6 @@
+dependencies:
+- name: base
+  repository: s3://infra-helm-chart
+  version: 0.1.0
+digest: sha256:2ce18e722258e667d8ad29017dc2a7c22645c70bb47abc4b8240fb7f21299fa7
+generated: "2021-05-08T16:30:17.548528+07:00"
